@@ -1,0 +1,19 @@
+body{
+    background-color: #001219;
+}
+
+h1{
+    color: #005f73;
+}
+h2{
+    color: #94d2bd;
+}
+b{ 
+    color: #e9d8a6;
+}
+ul{
+    color: #ee9b00;
+}
+profilePhoto{
+    float: left;
+}
